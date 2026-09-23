@@ -1,0 +1,3 @@
+# Rice Production Predictions
+
+To analyze historical rice production data and develop machine learning models for predicting future rice production. The project implements three regression approaches: Linear Regression using Year, Polynomial Regression using a quadratic relationship with Year, and Multivariate Linear Regression using Year, Area Harvested, and Yield and compares their prediction performance using evaluation metrics such as MAE, RMSE, and R².
