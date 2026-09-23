@@ -1,0 +1,9 @@
+Metric,Value
+Accuracy,0.725
+Error Rate,0.275
+Sensitivity / Recall,0.7358490566037735
+Specificity,0.7164179104477612
+Precision,0.6724137931034483
+F1-Score,0.7027027027027027
+AUC,0.8087862573922838
+Mean CV Accuracy,0.72
